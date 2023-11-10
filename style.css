@@ -1,0 +1,243 @@
+body { 
+    font-family: sans-serif; 
+} 
+body {   
+    font-family: sans-serif;   
+    background-color: #f9f9f9; 
+}   
+header {   
+    margin-top: -8px;   
+    margin-left: -7.7px;   
+    background: url(https://archello.com/thumbs/images/2022/09/28/expolight-emily-resort-outdor-lighing-commercial-landscape-archello.1664367316.4625.jpg?fit=crop&w=1440&h=900) center no-repeat;   
+    height: 700px;   
+    width: 1400px;   
+    background-size: cover;   
+}   
+.la {   
+    margin-left: 700px;   
+}   
+header h1 {   
+   font-family:'Cera Pro',"Poppins", sans-serif;   
+   color: white;   
+   font-weight: 400;   
+   font-size: 40px;   
+}   
+.ia {   
+    color: white;   
+    font-family: 'Cera Pro', sans-serif;   
+    text-decoration: none;   
+    font-weight: 1000;   
+    font-size: 24px;   
+}   
+.bb {   
+    color: #777777;   
+    text-decoration: none;   
+    background-color: white;   
+    padding: 10px;   
+    font-weight: 200;   
+    font-size: 20px;   
+    padding-top: 10px;   
+}   
+.em {   
+    margin-left: 200px;   
+    padding-top: 50px;   
+} 
+.af { 
+    color: #777777; 
+    text-decoration: none; 
+    margin: 10px 0px 10px 10px; 
+    font-size: 25px; 
+} 
+.af:first-child {
+   padding-left: 124px;
+}
+.hot { 
+   padding-left: 124px; 
+} 
+.af:hover { 
+   border-bottom: 1px solid #282828; 
+}   
+.ii {   
+    float: right;   
+    color: white;   
+    padding-top: 100px;   
+    margin-right: 150px;   
+}   
+.asd { 
+   text-align: center; 
+   margin-left: 10px; 
+   padding-bottom: 20px; 
+} 
+.aaa {  
+    color: rgba(255,255,255,0.75); 
+    font-weight: 400;  
+    line-height: 1.5;  
+    margin-left: 132px;  
+    font-size: 25px;  
+}  
+.aaa:hover { 
+   border-bottom:1px solid #FFFFFF; 
+} 
+.aaaa:hover {  
+   border-bottom:1px solid #FFFFFF; 
+}  
+main h1 {  
+    color: #333333;  
+    font-weight: 400;  
+    line-height: 1.5;  
+    margin-left: 132px;  
+    font-size: 45px;  
+}  
+footer { 
+   background-color: #282828; 
+   width: 1400px; 
+   height: 350px; 
+} 
+footer img { 
+   padding: 100px 0px 0px 50px; 
+} 
+footer a { 
+   color: rgba(255,255,255,0.75); 
+   text-decoration: none; 
+   text-align: center; 
+   font-size: 29px; 
+   line-height: 35px; 
+} 
+footer p { 
+   margin-bottom: 10px;   
+   color: rgba(255,255,255,0.75); 
+} 
+.as { 
+   display: block; 
+   float: right; 
+   padding: 100px 70px 0px 0px; 
+} 
+.aaaa { 
+    font-style: normal; 
+    font-weight: normal; 
+    line-height: 24px; 
+    text-decoration: none; 
+    margin-left: 150px; 
+    padding-bottom: 100px; 
+    font-size: 20px; 
+} 
+.po { 
+   margin-left: 400px; 
+   font-size: 20px; 
+} 
+.pii { 
+    margin-bottom: 10px; 
+    font-size: 18px; 
+    line-height: 18px; 
+    color: #FFFFFF; 
+    margin-bottom: 0px!important; 
+    padding-bottom: 0px!important; 
+    margin-top: 10px; 
+    text-align: left!important; 
+    padding-top: 30px; 
+    margin-left: 450px; 
+} 
+.slider {   
+   padding-top: 530px;   
+   width: 800px;   
+   height: 470px;   
+   overflow: hidden;   
+}   
+   
+.middle {   
+   margin-left: 530px;  
+   left: 50%;   
+   transform: translate(-50%, -50%);   
+}   
+   
+.navigation {   
+   position: absolute;   
+   bottom: 16px;   
+   left: 50%;   
+   transform: translateX(-50%);   
+   display: flex;   
+}   
+   
+.bar {   
+   width: 30px;   
+   height: 8px;   
+   margin: 6px;   
+   cursor: pointer;   
+   background-color: #000;   
+   opacity: .5;   
+   border-radius: 10px;   
+   transition: all 0.4s ease;   
+}   
+   
+.bar:hover {   
+   opacity: 1;   
+   transform:scale(1.1);   
+}   
+   
+input[name="r"] {   
+    position: absolute;  
+   visibility: hidden;   
+}   
+   
+.slides {   
+    width: 400%;   
+   height: 100%;   
+   display: flex;   
+}   
+   
+.slide {   
+   width: 25%;   
+   transition: all 0.6s ease;   
+}   
+  
+.img {   
+   width: 800px;   
+   height: 100%;   
+}  
+#r1:checked ~ .s1 {   
+   margin-left: -0%;   
+}   
+   
+#r2:checked ~ .s1 {   
+   margin-left: -25%;   
+}   
+   
+#r3:checked ~ .s1 {   
+   margin-left: -50%;   
+}   
+   
+#r4:checked ~ .s1 {   
+   margin-left: -75%;   
+}  
+ 
+#r5:checked ~ .s1 {   
+   margin-left: -100%;   
+}
+
+#r6:checked ~ .s1 {   
+   margin-left: -125%;   
+}
+
+#r7:checked ~ .s1 {   
+   margin-left: -150%;   
+}
+
+#r8:checked ~ .s1 {   
+   margin-left: -175%;   
+}   
+   
+#r9:checked ~ .s1 {   
+   margin-left: -200%;   
+}  
+ 
+#r10:checked ~ .s1 {   
+   margin-left: -225%;   
+}
+
+#r11:checked ~ .s1 {   
+   margin-left: -250%;   
+}
+
+#r12:checked ~ .s1 {   
+   margin-left: -275%;   
+}
